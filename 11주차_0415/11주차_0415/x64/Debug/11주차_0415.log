@@ -1,0 +1,23 @@
+﻿  calculator.cpp
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(3,18): error C2039: 'X': 'Calculator'의 멤버가 아닙니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\Calculator.h(5,7): message : 'Calculator' 선언을 참조하십시오.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(5,10): error C2065: 'x': 선언되지 않은 식별자입니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(7,18): error C2039: 'Y': 'Calculator'의 멤버가 아닙니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\Calculator.h(5,7): message : 'Calculator' 선언을 참조하십시오.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(9,10): error C2065: 'y': 선언되지 않은 식별자입니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(11,18): error C2039: 'Oper': 'Calculator'의 멤버가 아닙니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\Calculator.h(5,7): message : 'Calculator' 선언을 참조하십시오.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(13,11): error C2065: 'oper': 선언되지 않은 식별자입니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(14,3): error C2050: switch 식이 정수 계열이 아닙니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(15,8): error C2440: '형식 캐스트': 'const char [2]'에서 'int'(으)로 변환할 수 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(15,8): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(15,3): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(18,8): error C2440: '형식 캐스트': 'const char [2]'에서 'int'(으)로 변환할 수 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(18,8): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(18,3): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(20,8): error C2440: '형식 캐스트': 'const char [2]'에서 'int'(으)로 변환할 수 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(20,8): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(20,3): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(22,3): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(24,1): error C2059: 구문 오류: '}'
+C:\Users\원수민\Desktop\한라HL\데이터분석\11주차_0415\11주차_0415\calculator.cpp(24,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
